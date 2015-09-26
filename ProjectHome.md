@@ -1,0 +1,1 @@
+ZICDOC is an ABAP program which analyze other ABAP programs and creates HTML documentation for them. Generated documentation is based mainly on comments left by the programmer, but it contains also information determined directly from source code. HTML output file is a javadoc style document.
